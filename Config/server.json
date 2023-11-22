@@ -1,0 +1,21 @@
+{
+    "serverName": "🪽 Un Serveur Heberger chez AutoHeberg.fr 🪽",
+    "serverListName": "🪽 Un Serveur Heberger chez AutoHeberg.fr 🪽",
+    "serverSlot": 2024,
+    "serverPort": 7777,
+    "socketSecret": "",
+    "isPublicServer": true,
+    "useAdminPinAuth": false,
+    "tabletUrl": "",
+    "isWhitelisted": false,
+    "whitelist": {
+        "intro": "",
+        "questions": [],
+        "date": ""
+    },
+    "autoSaveIntervalSeconds": 1800.0,
+    "disconnectClientsBeforeStop": true,
+    "mapId": 1,
+    "serverFramerate": 60,
+    "hasShop": false
+}
