@@ -1,3 +1,3 @@
 # novalife
 
-Dossier d'installation nova life pulsenoeud
+Dossier d'installation nova life
