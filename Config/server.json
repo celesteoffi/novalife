@@ -1,13 +1,15 @@
 {
-    "serverName": " Un Serveur Heberger chez PulseNoeud.fr ",
-    "serverListName": " Un Serveur Heberger Grace a Pterodactyl ",
-    "serverSlot": 2024,
+    "serverName": "Un Serveur Heberger chez Wazou.fr ",
+    "serverListName": "Un Serveur Heberger chez PulseNoeud.fr",
+    "serverSlot": 2025,
     "serverPort": 7777,
-    "socketSecret": "",
-    "isPublicServer": true,
+    "queryPort": 27015,
+    "steamPort": 27016,
+    "isPublicServer": false,
     "useAdminPinAuth": false,
     "tabletUrl": "",
     "isWhitelisted": false,
+    "useWhitelistProtection": false,
     "whitelist": {
         "intro": "",
         "questions": [],
@@ -15,7 +17,7 @@
     },
     "autoSaveIntervalSeconds": 1800.0,
     "disconnectClientsBeforeStop": true,
-    "mapId": 1,
+    "mapId": 0,
     "serverFramerate": 60,
     "hasShop": false
 }

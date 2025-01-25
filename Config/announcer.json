@@ -1,1 +1,10 @@
-{"active":true,"announces":[{"message":"This is an announce example. You can config this message in Config/announcer.json","secondsInterval":300.0}]}
+{
+  "informations": "https://wazou.fr/novalife",
+  "active": true,
+  "announces": [
+    {
+      "message": "Se serveur et heberger chez wazou.fr - FreeHosting",
+      "secondsInterval": 300.0
+    }
+  ]
+}
